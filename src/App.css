@@ -43,10 +43,12 @@ ul {
   padding: 0;
   overflow: hidden;
   background-color: #333333;
+  display: flex;
 }
 
 li {
   float: left;
+  margin-right: 10px;
 }
 
 li a {

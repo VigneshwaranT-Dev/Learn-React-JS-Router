@@ -1,9 +1,9 @@
 import React from "react"
 
-export function Contact(){
+export function OldBooks(){
     return(
         <div>
-            <h1>Hi I'm Contact Component</h1>
+            <h1>Old Books Sold Here</h1>
         </div>
     )
 }

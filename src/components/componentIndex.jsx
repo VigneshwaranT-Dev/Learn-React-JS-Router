@@ -1,0 +1,7 @@
+export * from './about'
+export * from './contact'
+export * from './home'
+export * from './user'
+export * from './newBooks'
+export * from './oldBooks'
+export * from './login'
